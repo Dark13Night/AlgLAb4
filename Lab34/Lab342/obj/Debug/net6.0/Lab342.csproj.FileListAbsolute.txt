@@ -1,0 +1,14 @@
+D:\Labs\Lab34\Lab342\bin\Debug\net6.0\Lab342.exe
+D:\Labs\Lab34\Lab342\bin\Debug\net6.0\Lab342.deps.json
+D:\Labs\Lab34\Lab342\bin\Debug\net6.0\Lab342.runtimeconfig.json
+D:\Labs\Lab34\Lab342\bin\Debug\net6.0\Lab342.dll
+D:\Labs\Lab34\Lab342\bin\Debug\net6.0\Lab342.pdb
+D:\Labs\Lab34\Lab342\obj\Debug\net6.0\Lab342.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Lab34\Lab342\obj\Debug\net6.0\Lab342.AssemblyInfoInputs.cache
+D:\Labs\Lab34\Lab342\obj\Debug\net6.0\Lab342.AssemblyInfo.cs
+D:\Labs\Lab34\Lab342\obj\Debug\net6.0\Lab342.csproj.CoreCompileInputs.cache
+D:\Labs\Lab34\Lab342\obj\Debug\net6.0\Lab342.dll
+D:\Labs\Lab34\Lab342\obj\Debug\net6.0\refint\Lab342.dll
+D:\Labs\Lab34\Lab342\obj\Debug\net6.0\Lab342.pdb
+D:\Labs\Lab34\Lab342\obj\Debug\net6.0\Lab342.genruntimeconfig.cache
+D:\Labs\Lab34\Lab342\obj\Debug\net6.0\ref\Lab342.dll

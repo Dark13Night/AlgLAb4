@@ -1,0 +1,14 @@
+D:\Labs\Lab34\Lab343\bin\Debug\net6.0\Lab343.exe
+D:\Labs\Lab34\Lab343\bin\Debug\net6.0\Lab343.deps.json
+D:\Labs\Lab34\Lab343\bin\Debug\net6.0\Lab343.runtimeconfig.json
+D:\Labs\Lab34\Lab343\bin\Debug\net6.0\Lab343.dll
+D:\Labs\Lab34\Lab343\bin\Debug\net6.0\Lab343.pdb
+D:\Labs\Lab34\Lab343\obj\Debug\net6.0\Lab343.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Lab34\Lab343\obj\Debug\net6.0\Lab343.AssemblyInfoInputs.cache
+D:\Labs\Lab34\Lab343\obj\Debug\net6.0\Lab343.AssemblyInfo.cs
+D:\Labs\Lab34\Lab343\obj\Debug\net6.0\Lab343.csproj.CoreCompileInputs.cache
+D:\Labs\Lab34\Lab343\obj\Debug\net6.0\Lab343.dll
+D:\Labs\Lab34\Lab343\obj\Debug\net6.0\refint\Lab343.dll
+D:\Labs\Lab34\Lab343\obj\Debug\net6.0\Lab343.pdb
+D:\Labs\Lab34\Lab343\obj\Debug\net6.0\Lab343.genruntimeconfig.cache
+D:\Labs\Lab34\Lab343\obj\Debug\net6.0\ref\Lab343.dll
